@@ -1,0 +1,15 @@
+DOM
+Document Object Model 
+NODO
+todo elemento dentro de un documento HTML 
+es un Nodo (texto,atributos)  
+
+SELECTORES 
+document.getElementById('#idElement')
+document.querySelector('.clase')
+//devuelve una lista
+document.querySelectorAll('div p')
+
+
+COLECCIONES DE NODOS
+

@@ -1,0 +1,16 @@
+input{
+    display: block;
+    margin: 20px; 
+}
+
+#idRecordar{
+    display: inline;
+}
+
+video{
+    width: 500px;
+}
+
+button{
+    display: block;
+}
